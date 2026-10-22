@@ -6,6 +6,10 @@ This is just an example of the expected HW Repo format for class HW submissions.
 
 Your repo should match this format. 
 
+Consider adding the `.gitignore` file to your repo as well. It is a saftey net to prevent certain files from making it to Github. 
+
+
+
 > **Note:** All files are empty; they serve as placeholders.
 
 
@@ -13,6 +17,7 @@ Your repo should match this format.
 
 ```text
 seir-foundations-homework/
+|-- .gitignore
 |-- README.md
 `-- module1
     |-- lab0.5_basics_contd
