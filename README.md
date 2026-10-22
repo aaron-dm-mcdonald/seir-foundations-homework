@@ -5,7 +5,7 @@ This is just an example of the expected HW Repo format for class HW submissions.
 
 Your repo should match this format. 
 
-Consider adding the `.gitignore` file to your repo as well. It is a safety net to prevent certain files from making it to GitHub. 
+Consider adding the [.gitignore](./.gitignore) file to your repo as well. It is a safety net to prevent certain files from making it to GitHub. 
 
 > **Note:** All files are empty; they serve as placeholders.
 
