@@ -1,0 +1,3 @@
+Spotter = Jane Doe
+Teammates = Jane Doe, John Smith, Alex Lee
+Days + Times when your team meets = Mon & Wed, 7:00–8:30 PM ET
